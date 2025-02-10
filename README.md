@@ -97,7 +97,7 @@ Conclui o ensino médio na Etec Zona Leste, com o curso técnico em Análise em 
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="300" 
+      height="250" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LessaLabs&theme=tokyonight" 
   />
 </p>
